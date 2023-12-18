@@ -5,4 +5,3 @@
 Thank You for visiting my profile and this repo .
 Sheriyans Coding Academy is best for learning web development and to make websites like me. 
 Special Thanks to Ashish Sir and Ankur Sir
-And love to CodeWithHarry.
